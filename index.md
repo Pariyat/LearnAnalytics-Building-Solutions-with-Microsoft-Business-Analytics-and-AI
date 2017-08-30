@@ -33,9 +33,6 @@ Technical professionals (Data Scientists, Database Professionals, Analysts, BI P
 
 Intermediate
 
-## Title:
-Building Solutions with the Cortana Intelligence Suite
-
 ## Prerequisites
 
 There are a few things you will need in order to properly follow the course materials:
