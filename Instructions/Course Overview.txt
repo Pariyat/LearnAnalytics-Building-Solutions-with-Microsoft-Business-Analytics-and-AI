@@ -31,7 +31,7 @@ Agenda:
         CISW002
 
         Course Topics:
-        Cortana Intelligence
+        Microsoft Business Analytics and AI
 
         Intended Audience:
         Technical professionals (Data Scientists, Database Professionals, Analysts, BI Professionals) who are familiar with building solutions but not familiar with the entire CIS Platform of products. 
