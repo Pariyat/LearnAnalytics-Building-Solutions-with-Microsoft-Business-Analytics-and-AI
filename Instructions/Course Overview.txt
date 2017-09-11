@@ -25,6 +25,7 @@ Agenda:
 	d.	Course Content overview (you can use this to advertise your course)
 
 Course Number: 
+
 CISW002
 Course Topics:
 Microsoft Business Analytics and AI
@@ -73,3 +74,22 @@ Understand when to use each component within Microsoft Business Analytics and AI
 		iii.	Substituting your customer’s scenario
 			1.	The main scenario is what you replace, with the diagram and the solution elements. 
 			2.	You can also change the Business Scenario and associated slides to have the actual story from the customer. The process parts and components remain the same.
+
+Graphics
+	• www.superstock.com/
+	• www.gettyimages.com/creativeimages/royaltyfree
+	• www.corbisimages.com/stock-photo/royalty-free
+	• https://microsoft.sharepoint.com/teams/MediaAcquisition/Pages/knowledgeBase.aspx 
+	• https://microsoft.sharepoint.com/teams/brandcentral 
+	• https://www.flickr.com/photos/britishlibrary/albums
+	• http://designmodo.com/free-photos/ 
+	• https://unsplash.com/
+	• http://gratisography.com/
+	• http://thenextweb.com/dd/2014/05/15/53-free-high-quality-image-resources/ 
+	• http://thenounproject.com/term/ship-wheel/55549/ 
+	• https://microsoft.sharepoint.com/teams/brandcentral 
+	• http://gratisography.com/
+	• https://www.typeform.com/blog/ask-awesomely/free-pics/
+	• https://www.pexels.com/
+	• http://www.metmuseum.org/art/collection#!?perPage=20&amp;showOnly=openaccess&amp;sortBy=Relevance&amp;sortOrder=asc&amp;offset=0&amp;pageSize=0
+
