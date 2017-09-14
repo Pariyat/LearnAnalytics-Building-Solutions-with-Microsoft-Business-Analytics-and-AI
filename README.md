@@ -29,12 +29,12 @@
 <div class="card card-block">
 <h3 class="card-title">Course Modules</h3>
 <p class="card-text">Creating Advanced Analytic Solutions with the Team Data Science Process and the Cortana Intelligence Platform</p>
-<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-1-Setup.docx" target="_blank" class="card-link">1 - Environment Setup and Configuration</a></p>
-<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-2-BusinessUnderstanding.docx" target="_blank" class="card-link">2 - Business Understanding</a></p>
-<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-3-DataAcquisitionAndUnderstanding.docx" target="_blank" class="card-link">3 - Data Acquisition and Understanding</a></p>
-<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-4-Modeling.docx" target="_blank" class="card-link">4 - Modeling</a></p>
-<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-5-Deployment.docx" target="_blank" class="card-link">5 - Deployment</a></p>
-<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithCIS-6-CustomerAcceptance.docx" target="_blank" class="card-link">6 - Customer Acceptance</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithBAAI-1-Setup.docx" target="_blank" class="card-link">1 - Environment Setup and Configuration</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithBAAI-2-BusinessUnderstanding.docx" target="_blank" class="card-link">2 - Business Understanding</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithBAAI-3-DataAcquisitionAndUnderstanding.docx" target="_blank" class="card-link">3 - Data Acquisition and Understanding</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithBAAI-4-Modeling.docx" target="_blank" class="card-link">4 - Modeling</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithBAAI-5-Deployment.docx" target="_blank" class="card-link">5 - Deployment</a></p>
+<p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithBAAI-6-CustomerAcceptance.docx" target="_blank" class="card-link">6 - Customer Acceptance</a></p>
 </div>
 </div>
 <div class="row">
