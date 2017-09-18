@@ -10,7 +10,7 @@
 </head>
 <body>
 <div class="jumbotron">
-<h1 class="display-3">Building Solutions with the Cortana Intelligence Suite</h1>
+<h1 class="display-3">Building Solutions with the Microsoft Business Analytics and AI</h1>
 <p class="lead">From the Microsoft Machine Learning and Data Science Team</p>
 <hr class="my-2">
 <p class="lead">
@@ -28,7 +28,7 @@
 <div class="col-sm-4">
 <div class="card card-block">
 <h3 class="card-title">Course Modules</h3>
-<p class="card-text">Creating Advanced Analytic Solutions with the Team Data Science Process and the Cortana Intelligence Platform</p>
+<p class="card-text">Creating Advanced Analytic Solutions with the Team Data Science Process and the Microsoft Business Analytics and AI Platform</p>
 <p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithBAAI-1-Setup.docx" target="_blank" class="card-link">1 - Environment Setup and Configuration</a></p>
 <p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithBAAI-2-BusinessUnderstanding.docx" target="_blank" class="card-link">2 - Business Understanding</a></p>
 <p><a href="https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/blob/master/Students/BuildingSolutionsWithBAAI-3-DataAcquisitionAndUnderstanding.docx" target="_blank" class="card-link">3 - Data Acquisition and Understanding</a></p>
