@@ -1,53 +1,66 @@
-Course Number: 
-CISW002
+CISW002: Building Solutions with Microsoft Business Analytics and AI
 
-Course Topics:
-Microsoft Business Analytics and AI
-
-Intended Audience:
-Technical professionals (Data Scientists, Database Professionals, Analysts, BI Professionals) who are familiar with building solutions but not familiar with the entire Microsoft Business Analytics and AI Platform of products. 
-
-Course Level:
-Intermediate
-
-Title: 
-Building Solutions with the Microsoft Business Analytics and AI Platform
-
-Description:
-In this hands-on workshop youâ€™ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Microsoft Business Analytics and AI Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution.
-
-About the Course:
-In this workshop youâ€™ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Microsoft Business Analytics and AI Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution. Youâ€™ll learn how to work through a real-world scenario using the Microsoft Business Analytics and AI tools, including the Microsoft Azure Portal, PowerShell, and Visual Studio, among others. You'll learn how to leverage the Cortana Intelligence Solution Portal to rapidly deploy a pre-configured solution, and you'll learn how to modify a solution for a real-world implementation.
-
+About the Course
+In this workshop, you’ll cover a series of modules that guide you from understanding an analytics workload, using the Team Data Science Process, the Microsoft Business Analytics and AI Platform, the foundations of data transfer and storage, data source documentation, storage and analytics processing using various tools in a comprehensive solution. You’ll learn how to work through a real-world scenario using the Microsoft Business Analytics and AI tools, including the Microsoft Azure Portal, PowerShell, and Visual Studio, among others. You'll learn how to leverage the Cortana Intelligence Solution Portal to rapidly deploy a pre-configured solution, and you'll learn how to modify a solution for a real-world implementation.
 This course is designed to take approximately one to two days, depending on what is covered and how many of the labs are done in-class. The longer course is marked (Extended Class). All materials are provided regardless of the length of the course. 
+Set-up
+The learning objectives of this module involve understanding the processes and components involved in building a solution with the Microsoft Business Analytics and AI. By the end of the module, students should be familiar with the Team Data Science Process, the Microsoft Business Analytics and AI Platform and Azure DevOps for Data Science.
+Labs:
+1. (Optional) Local work station setup
+a. Note for instructor: If Azure passes/access will not be provided for the course, this should be completed prior to the start of the course as it will take some time.
+2. Account Activation, creating a Resource Group, setting up the DSVM
+a. This should take about ten minutes. It’s not entirely necessary at this point for Power BI, Visual Studio and Windows environments to be updated if time doesn’t allow.
+3. Copy and view data on your storage account using AZCOPY
+a. This should take about five minutes; AZ copy is already installed on the DSVM.
+Business Understanding
+At the end of this module, students should be able to determine questions from business requirements, locate and document data sources for Advanced Analytics (specifically Azure Data Catalog), and use patterns to create solution frameworks. 
+During the module, a business case is presented, and the instructor takes the students through the process of breaking a statement down into key words used to determine the question to be answered with data storage technologies and data processing technologies, ultimately using a decision matrix to create a solution workflow. 
+Lab:
+1. Adding and searching data on the Azure Data Catalog
+a. This lab should take about five minutes, and then the instructor will provide account information, so students can log into the Azure Data Catalog site and create an entry.
+Data Acquisition and Understanding
+Upon completion of this module, students should have hands-on experience and understanding of how to ingest data into the Azure platform, explore data with various tools, and create a mechanism to orchestrate and manage data flows through a solution.
+Many ingestion and exploration tools are summarized during this module, but majority of the module focuses on Azure Data Factory and the processes related to creation and maintenance. 
+Labs:
+1. Working with table storage
+a. This simple exercise should take about five minutes.
+2. Exploring your data
+a. Note for instructor: give the students about five to ten minutes to explore these two files, then open it up for discussion.
+3. Create an ADF Project
+a. Note for the instructor: this will take some time, around 30 minutes. Make sure students are completing the prerequisites (mentioned at the top of the link provided) before building the Data Factory.
+Modeling
+This module is largely focused on Machine Learning. In this module, students will learn about Machine Learning and create a Machine Learning solution in their Azure ML environment. It’s important that students don’t go ahead to the lab here because they won’t understand what they’re doing (even though they will be able to do it). 
+Lab:
+1. Create and run an experiment in Azure ML
+a. This lab takes about 15 minutes.
+Deployment
+This module covers the deployment of several different solutions using storage (Azure SQL Database), an API (Azure ML), code, and Service Bus. The module also touches on Bot Framework and creating good reports, in general but also specifically with Power BI. There’s a lot of information covered in this module, so it’s important to keep students engaged and break it up with the labs.
+Labs:
+1. Create an Azure ML API
+a. Students should use the experiment they created in the previous module.
+b. This lab takes five minutes or less.
+2. Analyzing data in Power BI
+a. This lab takes about 15 minutes. It is a fun and rewarding (with nice visuals) when completed, so if it takes a little bit longer it might be worth it for the gratification at the end.
+3. Connecting to an Azure SQL Database
+a. This lab takes 15-20 minutes. It takes a while to open SQL Server Management Studio for the first time on the DSVM.
+4. (Optional) Working with Azure Service Bus
+a. While an interesting lab, it is also a long one, probably taking about 30 minutes. Visual Studio takes a while to open for the first time, and for students who have never used Visual Studio, getting oriented takes time.
+Customer Acceptance
+In this module, several important post-deployment activities are discussed in detail including: customer handoff and acceptance, altering and maintaining a solution, and monitoring and reporting on the solution. There’s also an emphasis on the solutions in the Solutions Gallery, especially the Anomaly Detection solution, which is mentioned throughout the course.
+Lab:
+1. Monitoring your solution
+a. Less of a lab and more of some reading with a video. This exercise takes less than five minutes.
 
-Prerequisites:
-There are a few things you will need in order to properly follow the course materials:
-
-A subscription to Microsoft Azure (this may be provided through your company or as part of your invitation â€“ you must have this enabled prior to class â€“ you will be using Azure throughout the course, for all labs, work and exercises). You can use your MSDN subscription â€“ https://azure.microsoft.com/en-us/pricing/memberoffers/msdn-benefits/, your employer may provide Azure resources to you, but make sure you check to see if you can deploy assets and that they know youâ€™ll be using their subscription in the class. 
-
-A laptop capable of using the Remote Desktop Protocol (RDP) - all lab work will be done on the Microsoft Azure Windows Data Science Machine.
-
-Agenda:
-Module 1: Setup and Environment - Understanding the Azure Platform, DevOps for Data Science, and Toolkits
-Module 2: Business Understanding - Defining objectives, data source vetting, creating design document, creating decision matrix, selecting solution elements, data flow
-Module 3: Data Acquisition and Understanding - Ingest data, explore data, update data
-Module 4: Modeling - Feature Selection, Create and train model
-Module 5: Deployment - Operationalize
-Module 6: Customer Acceptance - Testing and validation, Handoff, Re-train and re-score
 
 
-Skills taught:
-Understand the Team Data Science Process (General level), Understand Microsoft Business Analytics and AI Components (General Level), Set up and configure the development environment 
 
-Understand how to source and vet proper data, Understand feature selection, Understand Azure Storage Options, Use various methods to ingest data into Azure Storage, Examine data stored in Azure Storage, Use various tools to explore data 
 
-Understand ADF and its constructs, Implement an ADF Pipeline referencing Data Sources and with various Activities including on-demand HDInsight Clusters, 
 
-Understand how to use Azure ML and how experiments are created, Understand how MRS can be used to perform Machine Learning experiments, Use ADF to schedule Azure ML Activities 
 
-Understand how to evaluate the efficacy and performance of an Azure ML experiment, Understand how to evaluate the efficacy and performance of an MSR ML experiment, Access and show data from Azure Storage, Access, and Query Azure SQL DB 
 
-Understand how to publish an Azure ML API, Understand the access methods of Azure Storage and Intelligent Processing, Understand the options to send a HIVE query to an HDI system, Use Power BI to query the results of a solution and create reports in Power BI Desktop, Power BI Service, and Power BI in Microsoft Excel 
 
-Understand when to use each component within Microsoft Business Analytics and AI
+
+
+
+
+
