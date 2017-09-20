@@ -10,7 +10,7 @@
 </head>
 <body>
 <div class="jumbotron">
-<h1 class="display-3">Building Solutions with the Microsoft Business Analytics and AI</h1>
+<h1 class="display-3">Building Solutions with  Microsoft Business Analytics and AI</h1>
 <p class="lead">From the Microsoft Machine Learning and Data Science Team</p>
 <hr class="my-2">
 <p class="lead">
