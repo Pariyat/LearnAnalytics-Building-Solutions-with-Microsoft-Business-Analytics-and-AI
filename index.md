@@ -36,7 +36,7 @@ Intermediate
 
 There are a few things you will need in order to properly follow the course materials:
 
-A subscription to Microsoft Azure (this may be provided through your company or as part of your invitation – you must have this enabled prior to class – you will be using Azure throughout the course, for all labs, work and exercises). You can use your MSDN subscription – https://azure.microsoft.com/en-us/pricing/memberoffers/msdn-benefits/, your employer may provide Azure resources to you, but make sure you check to see if you can deploy assets and that they know you’ll be using their subscription in the class. 
+A subscription to Microsoft Azure (this may be provided through your company or as part of your invitation – you must have this enabled prior to class – you will be using Azure throughout the course, for all labs, work and exercises). You can use your [MSDN subscription](https://azure.microsoft.com/en-us/pricing/memberoffers/msdn-benefits/), your employer may provide Azure resources to you, but make sure you check to see if you can deploy assets and that they know you’ll be using their subscription in the class. 
 
 A laptop capable of using the Remote Desktop Protocol (RDP) - all lab work will be done on the Microsoft Azure Windows Data Science Machine.
 
