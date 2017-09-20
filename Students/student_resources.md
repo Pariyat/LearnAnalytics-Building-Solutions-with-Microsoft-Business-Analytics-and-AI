@@ -20,8 +20,6 @@ Creating Advanced Analytic Solutions with the Team Data Science Process and the 
 
 # Other Assets for this course
 
-[Resources.zip](https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite/raw/master/Students/Resources/Resources.zip)
-
 # Additional Student Resources
 
 
