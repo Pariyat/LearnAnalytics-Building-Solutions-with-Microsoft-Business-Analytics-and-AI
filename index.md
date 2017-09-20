@@ -6,15 +6,14 @@ layout: default
 
 In this workshop you’ll cover a series of modules that guide you 
 from understanding an analytics workload, using the Team Data 
-Science Process, the Cortana Intelligence Suite Platform, the 
+Science Process, the 
 foundations of data transfer and storage, data source 
 documentation, storage and analytics processing using various 
 tools in a comprehensive solution. You’ll learn how to work 
-through a real-world scenario using the Cortana Intelligence Suite
+through a real-world scenario using Microsoft Business Analytics and AI
 tools, including the Microsoft Azure Portal, PowerShell, and Visual 
-Studio, among others. You'll learn how to leverage the Cortana 
-Intelligence Solution Portal to rapidly deploy a pre-configured 
-solution, and you'll learn how to modify a solution for a real-
+Studio, among others. You'll learn how to rapidly deploy pre-configured 
+solutions, and you'll learn how to modify a solution for a real-
 world implementation.
 
 This course is designed to take approximately one to two days, 
@@ -27,7 +26,7 @@ materials are provided regardless of the length of the course.
 
 ## Intended Audience:
 
-Technical professionals (Data Scientists, Database Professionals, Analysts, BI Professionals) who are familiar with building solutions but not familiar with the entire CIS Platform of products. 
+Technical professionals (Data Scientists, Database Professionals, Analysts, BI Professionals) who are familiar with building solutions but not familiar with the entire Microsoft Business Analytics and AI portfolio. 
 
 ## Course Level
 
@@ -53,13 +52,13 @@ A laptop capable of using the Remote Desktop Protocol (RDP) - all lab work will 
 
 ## Skills taught
 
-- Understand the CIS Process (General level), Understand CIS Components (General Level), Set up and configure the development environment 
+- Understand the Team Data Science Process (General level), Understand BA+AI Components (General Level), Set up and configure the development environment 
 - Understand how to source and vet proper data, Understand feature selection, Understand Azure Storage Options, Use various methods to ingest data into Azure Storage, Examine data stored in Azure Storage, Use various tools to explore data 
 - Understand ADF and its constructs, Implement an ADF Pipeline referencing Data Sources and with various Activities including on-demand HDInsight Clusters, 
 - Understand how to use Azure ML and how experiments are created, Understand how MRS can be used to perform Machine Learning experiments, Use ADF to schedule Azure ML Activities 
 - Understand how to evaluate the efficacy and performance of an Azure ML experiment, Understand how to evaluate the efficacy and performance of an MSR ML experiment, Access and show data from Azure Storage, Access, and Query Azure SQL DB 
 - Understand how to publish an Azure ML API, Understand the access methods of Azure Storage and Intelligent Processing, Understand the options to send a HIVE query to an HDI system, Use Power BI to query the results of a solution and create reports in Power BI Desktop, Power BI Service, and Power BI in Microsoft Excel 
-- Understand when to use each component within CIS
+- Understand when to use each component within the Microsoft Business Analytics and AI portfolio
 
 # Additional Information for Students
 
